@@ -1,0 +1,42 @@
+{
+  "loop": true,
+  "threads": 10,
+
+  "client_id": "kimne78kx3ncx6brgo4mv6wki5h1ko",
+
+  "stream": {
+    "max_uptime": 3600,
+    "viewers": {
+      "enable": false,
+      "min": 0,
+      "max": 100
+    }
+  },
+
+  "keywords": [
+    "Love",
+    "Cake",
+    "Giveaway",
+    "MrSnifo"
+  ],
+
+  "category-only":{
+    "enable": false,
+    "categories": [
+      "Just Chatting",
+      "I'm Only Sleeping",
+      "Pools, Hot Tubs, and Beaches",
+      "ASMR",
+      "talk shows & podcasts",
+      "Sports"
+    ],
+    "no-category": true
+  },
+
+  "block": {
+    "enable": false,
+    "usernames": ["Nightbot", "StreamElements", "Streamlabs", "SoundAlerts",
+     "PokemonCommunityGame", "RestreamBot", "PretzelRocks", "Wizebot"]
+    }
+
+}
